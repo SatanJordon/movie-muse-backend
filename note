@@ -1,0 +1,2 @@
+python manage.py migrate --settings=moviemuse.settings.dev
+python manage.py runserver --settings=moviemuse.settings.dev
